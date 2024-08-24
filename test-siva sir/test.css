@@ -1,0 +1,137 @@
+.grid-container{
+    display: inline-grid;
+    grid-template-columns: 100px 100px 100px 100px;
+    grid-template-rows: 100px 100px 100px 100px 100px 100px 100px;
+
+    padding:5px;
+    margin:200px;
+    
+}
+.item1{
+    
+    background-color: rgb(203, 14, 147);
+    grid-row:span 3;
+    color:antiquewhite;
+    text-align: center;
+    font-size: x-large;
+    
+
+    
+}
+.item2{
+    
+    background-color: black;
+    grid-column:span 2;
+    color:antiquewhite;
+    text-align: center;
+    font-size: x-large;
+}
+.item3{
+   
+    background-color: black;
+    grid-row:span 2;
+    color:antiquewhite;
+    text-align: center;
+    font-size: x-large;
+}
+.item4{
+    
+    background-color: black;
+    grid-column:span 3;
+    color:antiquewhite;
+    text-align: center;
+    font-size: x-large;
+}
+.item5{
+    
+    background-color: rgb(197, 29, 29);
+    
+    color:antiquewhite;
+    text-align: center;
+    font-size: x-large;
+}
+.item6{
+    
+    background-color: rgb(27, 229, 104);
+    grid-row:span 2;
+    color:antiquewhite;
+    text-align: center;
+    font-size: x-large;
+}
+.item7{
+    
+    background-color: rgb(207, 128, 10);
+    grid-column:span 1;
+    color:antiquewhite;
+    text-align: center;
+    font-size: x-large;
+}
+.item8{
+    
+    background-color: rgb(89, 18, 210);
+    color:antiquewhite;
+    text-align: center;
+    font-size: x-large;
+}
+.item9{
+    
+    background-color: green;
+    color:antiquewhite;
+    text-align: center;
+    font-size: x-large;
+}
+.item10{
+    
+    background-color: black;
+    color:antiquewhite;
+    text-align: center;
+    font-size: x-large;
+}
+.item11{
+    
+    background-color: rgb(13, 142, 207);
+
+    color:antiquewhite;
+    text-align: center;
+    font-size: x-large;
+}
+.item12{
+    
+    background-color: rgb(232, 11, 151);
+    
+    color:antiquewhite;
+    text-align: center;
+    font-size: x-large;
+}
+.item13{
+    
+    background-color: rgb(232, 11, 151);
+    
+    color:antiquewhite;
+    text-align: center;
+    font-size: x-large;
+}
+.item14{
+    
+    background-color: rgb(232, 11, 151);
+
+    color:antiquewhite;
+    text-align: center;
+    font-size: x-large;
+}
+.item15{
+    
+    background-color: rgb(232, 11, 151);
+    
+    color:antiquewhite;
+    text-align: center;
+    font-size: x-large;
+}
+.item16{
+    
+    background-color: black;
+
+    color:antiquewhite;
+    text-align: center;
+    font-size: x-large;
+}

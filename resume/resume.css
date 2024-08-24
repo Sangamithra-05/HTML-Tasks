@@ -1,0 +1,57 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    background-color: black;
+    font-family: trirong;
+    color: rgb(17, 17, 18);
+    src: url(C:\Users\USER\Desktop\hw\images\pic.jpg);
+}
+.flex1{
+    flex:1;
+}
+.flex2{
+    flex: 2;
+}
+.flexC{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main-container{
+    max-width: 60vw;
+    display: flex;
+    margin: auto;
+    padding: 2rem;
+    background-color: rgb(250, 249, 248);
+    flex-direction:column;
+}
+.details-container{
+    display: flex;
+}
+.propic{
+    width: 150px;
+    height: 150px;
+    border-radius: 30%;
+}
+.exp-container{
+    margin: 2rem;
+
+}
+.des-container{
+    display: flex;
+    margin-bottom: 2rem;
+}
+.leftContainer{
+    margin: 1rem;
+
+}
+.divider{
+    border: 1px solid black;
+    width: 100%;
+}
+h1,
+h2,
+h3,
+h5{
+    line-height: 0.4;
+}
